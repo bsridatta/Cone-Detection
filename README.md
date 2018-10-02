@@ -9,9 +9,15 @@
     2) After trying yolov3,darknet, I decided darkflow was the best way
   
   3) ##### Detection without cones - Getting the basics right
-    1) Object detection with darkflow. ![output](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/darkflow.png)
+      1) Object detection with darkflow. 
+      
+      ![output](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/darkflow.png)
+      
       Check [output/code](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/py2%20Darkflow.ipynb) here
-    2) Object detection in video ![video](<video src="https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/video.avi" width="320" height="200" controls preload></video>)
+     
+     2) Object detection in video 
+     
+     ![video]("https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/video.avi")
 
   4) ##### Training the  model on my "CPU" laptop ( Not my first time ) 
   	

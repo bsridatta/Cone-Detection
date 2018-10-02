@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>blackC18.jpg</filename>
+	<path>/media/datta/Sri Datta/DarkFlow/darkflow2/conesDataset/Images/blackC18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blackC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>18</ymin>
+			<xmax>331</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>yellowC16.jpg</filename>
+	<path>/media/datta/Sri Datta/DarkFlow/darkflow2/conesDataset/Images/yellowC16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellowC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>65</ymin>
+			<xmax>128</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellowC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>250</ymin>
+			<xmax>222</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

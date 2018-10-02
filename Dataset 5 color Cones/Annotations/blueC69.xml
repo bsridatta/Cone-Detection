@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>blueC69.jpg</filename>
+	<path>/media/datta/Sri Datta/DarkFlow/darkflow2/conesDataset/Images/blueC69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blueC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>152</ymin>
+			<xmax>355</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blueC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>169</ymin>
+			<xmax>606</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

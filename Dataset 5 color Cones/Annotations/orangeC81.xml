@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>orangeC81.jpg</filename>
+	<path>/media/datta/Sri Datta/DarkFlow/darkflow2/conesDataset/Images/orangeC81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orangeC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>66</ymin>
+			<xmax>405</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

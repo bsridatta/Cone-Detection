@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>whiteC25.jpg</filename>
+	<path>/media/datta/Sri Datta/DarkFlow/darkflow2/conesDataset/Images/whiteC25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>158</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whiteC</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>51</ymin>
+			<xmax>236</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

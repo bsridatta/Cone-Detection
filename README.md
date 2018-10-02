@@ -3,7 +3,6 @@
 ## Approach
   
   1.Setup my the environment in ubuntu to make ros node 
-  
   2.Collect image data set. Annotate it.
   
   3.Explore custom neural net/ open source frameworks

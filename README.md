@@ -28,5 +28,7 @@
       	1) Redone the entire setup again [My colab GPU env.](https://drive.google.com/drive/folders/1r6yw32bb-H6Xb52tpjTJ5JJeXERog_dN?usp=sharing) Entire darkflow, dataset, models and configurations in the above link. (Note : Not fully functoning) 
    		2) #### Got struck training in colab due to format/access errors raised by google drive. Still fiddling with it....   
   
-  .and so on but unfortunately could not go beyond step 4 :(
-
+  .and so on but unfortunately could not go any further 
+  
+  > ## Future Work
+  1) Ill try to get it to work. Darkflow is meant to work for py3 but i discovered it works well for py2 also. So hopefully it doesnt conflict with ROS

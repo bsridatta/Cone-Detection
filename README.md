@@ -17,7 +17,7 @@
      
       2) Object detection in video 
      
-     [video]("https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/video.avi")
+      ![video]("https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/video.avi")
 
   4) ##### Training the  model on my "CPU" laptop ( Not my first time ) 
   	

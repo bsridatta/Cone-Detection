@@ -9,24 +9,18 @@
         2) After trying yolov3,darknet, I decided darkflow was the best way
   
   3) ##### Detection without cones - Getting the basics right
-  		1) Object detection with darkflow. 
-        ![output](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/darkflow.png)
-        
-        	Check [output/code](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/py2%20Darkflow.ipynb) here
-        
-      	2) Object detection in video
-        
+    1) Object detection with darkflow. 
+     ![output](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/darkflow.png)
+      Check [output/code](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/py2%20Darkflow.ipynb) here
+    2) Object detection in video
         <video src="https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/video.avi" width="320" height="200" controls preload></video>
 
-        
-        
   4) ##### Training the  model on my "CPU" laptop ( Not my first time ) 
   	
     	1) I trained 200 videos on my laptop in windows in couple of hours but in after changing to ubuntu for this training program,  the epoch per hour for these 'image' dataset is so high. 
   		2) Found [pretrained weights](https://github.com/melfm/dukecone) but no config file. Morphed many configs and experimented, no use.
    
    4) ##### Turning to Google colabs  
-   
       	1) Redone the entire setup again [My colab GPU env.](https://drive.google.com/drive/folders/1r6yw32bb-H6Xb52tpjTJ5JJeXERog_dN?usp=sharing) Entire darkflow, dataset, models and configurations in the above link. (Note : Not fully functoning) 
    		2) #### Got struck training in colab due to format/access errors raised by google drive. Still fiddling with it....   
   

@@ -1,0 +1,5 @@
+blackC
+blueC
+whiteC
+yellowC
+orangeC

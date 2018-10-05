@@ -32,3 +32,9 @@
   
   > ## Future Work
   1) Ill try to get it to work. Darkflow is meant to work for py3 but i discovered it works well for py2 also. So hopefully it doesnt conflict with ROS
+  
+  Editing out all the conflicts Darkflow had with GDrive and hardcoded the classes and model config. It kind of wokred and trained on tiny yolo architecture with ~200 epoch- 10k steps for 5 hours on tesla GPU in colab. Checkpoints however werent stored (didnt even prompt an error) after 5000 steps. Testing on the video provided at a speed of 4 FPS on a CPU. And the result looked something like this. 
+     ![cones](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/conesDetection.png)
+     
+     
+     

@@ -44,7 +44,7 @@
       6) FPS- 4 on gpu
   and trained on tiny yolo architecture with ~200 epoch- 10k steps for 5 hours on tesla GPU in colab. Checkpoints however werent stored (didnt even prompt an error) after 5000 steps. Testing on the video provided at a speed of 4 FPS on a CPU. And the result looked something like this. 
      ![cones](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/conesDetection.png)
-     and whole video is here. It detects blueCones pretty well but not white. Intrestingly I provided more orange samples than the blues
+     and whole video is ![here](https://github.com/bsridatta/kthfsdv-Perception-Interview/blob/master/testVideo.avi). It detects blueCones pretty well but not white. Intrestingly I provided more orange samples than the blues
      
      
      
